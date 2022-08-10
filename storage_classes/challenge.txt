@@ -1,0 +1,6 @@
+create a c program that shares a variable amongst two files
+source file is named main.c
+source file includes a global variable used as a loop counter
+this files include a main function that uses the global variable to iterate through a loop 5 times.
+inside this loop a functio should be invoked(display) that is defined in another file(do not use an include file)
+The display function should take no parameters.
