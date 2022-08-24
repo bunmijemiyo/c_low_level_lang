@@ -1,0 +1,3 @@
+This is my first writing to file
+File is a good way to store data on hard disk
+Files are very important for record keeping
