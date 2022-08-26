@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-write a program to find the total number of lines in a text file
+write a program to find the total number of character in a text file
 create a file that contains some lines of text
 open your test file
 use the fgetc function to parse characters in file until you get to the EOF
@@ -67,7 +67,7 @@ int numberOfFileChar()
     fclose(fp);
 
 
-    printf("\nTotal size of file.txt=%d bytes\n", len);
+    printf("\nTotal number of characters/ size of file.txt=%d bytes\n", len);
     return 0;
 }
 
